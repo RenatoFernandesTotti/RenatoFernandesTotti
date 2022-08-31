@@ -1,11 +1,11 @@
 # Bem vindo ao meu perfil!
 
-## Meu nome é Renato Aurélio Fernandes Totti, futuro engenheiro da computação apaixonado por tecnologia!
+## Meu nome é Renato Aurélio Fernandes Totti, engenheiro da computação apaixonado por tecnologia!
 
-- 🔭 Atualmente trabalho como tech lead de uma equipe
+- 🔭 Atualmente como full stack dev
 - 🌱 Sempre procurando aprender coisas novas
 - 📚 ex-estudante do Google Summer of Code
-
+- 📖 Atualmente lendo `The Art of computer programming: Vol 1`
 ---
 
 <div style="text-align: right">
